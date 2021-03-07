@@ -1,5 +1,5 @@
 # alevel-resource
-
+<font color = purple>
 Hi! 
 
 Claire here, hoping to figure this out so I can publish my resource on the internet for any and all A-level Physics students to access. 
@@ -20,3 +20,4 @@ To be included within:
     - Oral Presentation
   
     - Lab Report (2 x 2-page/ 1 x 4-page)
+</font>
