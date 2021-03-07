@@ -14,8 +14,8 @@ To be included within:
   
   * Choice of Teacher Assessment;
    
-   >- Video Presentation
+   >>- Video Presentation
    
-   >- Oral Presentation
+   >>- Oral Presentation
   
-   >- Lab Report (2 x 2-page/ 1 x 4-page)
+   >>- Lab Report (2 x 2-page/ 1 x 4-page)
