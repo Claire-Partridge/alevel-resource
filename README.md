@@ -10,6 +10,6 @@ To be included within:
   > Data Analysis (Jupyter Notebook and Excel Spreadsheet)
   > Example Lab Report for Guidance
   > Choice of Teacher Assessment 
-    > Video Presentation
+    >> Video Presentation
     > Oral Presentation
     > Lab Report (2 x 2-page/ 1 x 4-page)
