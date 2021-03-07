@@ -6,16 +6,16 @@ Claire here, hoping to figure this out so I can publish my resource on the inter
 
 This resource explores the A2 required practical of exploring Boyle's and Charles' Law. 
 To be included within:
-  > Experimental Procedure\n
+  > Experimental Procedure
   > 
-  > Data Analysis (Jupyter Notebook and Excel Spreadsheet)\n
+  > Data Analysis (Jupyter Notebook and Excel Spreadsheet)
   > 
-  > Example Lab Report for Guidance\n
+  > Example Lab Report for Guidance
   > 
-  > Choice of Teacher Assessment;\n
+  > Choice of Teacher Assessment;
   > 
-  >> Video Presentation\\n
+  >> Video Presentation
   >> 
-  >> Oral Presentation\\n
+  >> Oral Presentation
   >> 
   >> Lab Report (2 x 2-page/ 1 x 4-page)
