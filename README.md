@@ -11,11 +11,11 @@ So if you are an A-level Physics student, an A-level Physics teacher or you are 
 Don't forget who gets the credit though!
 
 
-Files available to download: 
+2 Resource Formats available to download: 
 
-  * 2 worksheet formats;
-        * A Jupyter Notebook 'lab-style' practical guide with data analysis and evaluation sections
-        * An Excel workbook practical guide with data analysis and evaluation sections
+  
+  * A Jupyter Notebook 'lab-style' practical guide with data analysis and evaluation sections
+  * An Excel workbook practical guide with data analysis and evaluation sections
    
   
   </font>
