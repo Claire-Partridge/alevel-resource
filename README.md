@@ -17,5 +17,13 @@ Don't forget who gets the credit though!
   * A Jupyter Notebook 'lab-style' practical guide with data analysis and evaluation sections
   * An Excel workbook practical guide with data analysis and evaluation sections
    
-  
+If you are either; an a-level student looking at doing a lab-based science at university, or an a-level teacher, I would highly recommend using the Jupyter Notebook format of this activity. 
+This Jupyter Notebook uses the coding laguage Python in a typical laboratory analysis format. If you have never learnt how to code, or experienced a coding procedure for the data analysis of an experiment then this worksheet is designed to give you a clear and steady introduction- starting with a basic explanation of the format along with links for further reading.
+
+If you are new to Python and Jupyter Notebooks - first, you must download the software called 'Anaconda' onto your computer and launch Jupyter Notebook from the navigator. Only from here can you open the .ipynb file. 
+
+For those of you with Python experience when you open the notebook, the first package 'RISE' isn't necessary to install if you don't want to, but the magic markdown package must be installed for the formatting to work at the end! 
+
+I really hope you enjoy this at-home experiment, any and all feedback is more than welcome!
+
   </font>
