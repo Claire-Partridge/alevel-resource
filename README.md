@@ -26,4 +26,22 @@ For those of you with Python experience when you open the notebook, the first pa
 
 I really hope you enjoy this at-home experiment, any and all feedback is more than welcome!
 
+
+
+ ** __Disclaimer__ **
+
+After reading through the method of this practical, please ensure you are constantly thinking about the safety of yourself and your equipment before embarking on adding data points. 
+
+  
+
+At no point should you be exposing your phone to any extreme temperatures – this is a potential fire risk, and you could seriously damage your phone!  
+
+It is recommended, for this investigation, to keep the temperature difference to no more than 10-20 degrees from room temperature.  
+
+A bigger difference than this is unnecessary, you should be able to see the desired effect within these temperatures.  
+
+ 
+
+There are ways to heat up the equipment WITHOUT using microwaves, ovens or hobs!! 
+
   </font>
